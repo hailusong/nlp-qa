@@ -1,6 +1,6 @@
 # NLP QA and more
 
-| Model | Action | Data | Result |
+| Model | Action | Data | How to use it |
 | ----- | ---- | ---- | ------ |
 | pre-trained BERT | Add QA head and fine-tune | SQuAD 1.1 dataset | Use the fine-tuned model to test the target data set |
 | pre-trained BERT with QA head | | | Use the pre-trained QA model to test the target data set |
