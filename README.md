@@ -10,7 +10,7 @@
 | ----- | ---- | ---- | ------ |
 | pre-trained ALBERT with QA head on SQuAD2 | | | Use the pre-trained QA model to test the target data set |
 
-### Fine-tune Resourcing
+### DIY Fine-Tuning
 1. Soures
     - According to [**HuggingFace SQuAD readme**](https://github.com/huggingface/transformers/tree/master/examples/question-answering)
 2. Fine-tunes BERT on the SQuAD1.0 dataset, BERT-base
