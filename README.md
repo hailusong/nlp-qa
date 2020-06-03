@@ -27,7 +27,7 @@ Sourees:
 | ----------- | ------------ | ---------- |
 | TPU | - completed in 24 min (with BERT-base) or <br>- 68 min (with BERT-large) ...<br>- on a single tesla V100 16GB | |
 | Colab GPU<br>(10GB GPU memory) | out-of-memory | |
-| Colab TPU | 52.24s/it | 3 Epoch * 7387 iter * 52s = 320h |
+| Colab TPU | 52.24s/it | 2 Epoch * 7387 iter * 52s = 214h |
 
         
 ## Data Enriching
