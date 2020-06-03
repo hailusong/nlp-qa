@@ -1,16 +1,21 @@
 # NLP QA and more
 
-## Intent Classification
+## Options
+### Intent Classification
 | Model | Action | Data | How to use it |
 | ----- | ---- | ---- | ------ |
 | pre-trained BERT | Add classification head and fine-tune | domain data | Use the fine-tuned model to test the target data set |
 | pre-trained BERT | Continuous learning with domain data | public legal document data | BERT language model trained on domain data |
 | pre-trained BERT model on domain data |  Add classification head and fine-tune | domain data | Use the fine-tuned model to test the target data set |
 
-## QA
+### QA
 | Model | Action | Data | How to use it |
 | ----- | ---- | ---- | ------ |
 | pre-trained BERT | Add QA head and fine-tune | SQuAD 1.1 dataset | Use the fine-tuned model to test the target data set |
 | pre-trained BERT with QA head | | | Use the pre-trained QA model to test the target data set |
 | pre-trained BERT | Continuous learning with domain data | public legal document data | BERT language model trained on domain data |
 | pre-trained BERT model on domain data |  Add QA head and fine-tune | SQuAD 1.1 dataset | Use the fine-tuned model to test the target data set |
+
+## Data Enriching
+1. By page
+2. By paragraph
