@@ -12,7 +12,7 @@
 
 ### Fine-tune Resourcing
 Sourees:
-- According to [**HuggingFace SQuAD readme**](https://github.com/huggingface/transformers/tree/master/examples/question-answering)
+        - According to [**HuggingFace SQuAD readme**](https://github.com/huggingface/transformers/tree/master/examples/question-answering)
 
 1. Fine-tunes BERT on the SQuAD1.0 dataset, BERT-base
 
