@@ -12,7 +12,7 @@
 
 ### Fine-tune Resourcing
 1. Soures
-        - According to [**HuggingFace SQuAD readme**](https://github.com/huggingface/transformers/tree/master/examples/question-answering)
+    - According to [**HuggingFace SQuAD readme**](https://github.com/huggingface/transformers/tree/master/examples/question-answering)
 2. Fine-tunes BERT on the SQuAD1.0 dataset, BERT-base
 
 | Environment | Speed (s/it) | Total Time |
