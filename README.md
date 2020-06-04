@@ -1,4 +1,8 @@
 # NLP QA and more
+A combination of techniques like
+    - Intent classification, to classify the intent(s) of the documents
+    - QA, to extract parameters
+    - NER, to highlight all Nouns
 
 ## Options
 ### Intent Classification
