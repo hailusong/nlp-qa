@@ -4,6 +4,9 @@ A combination of techniques like
 - QA, to extract parameters
 - NER, to highlight all Nouns
 
+Also, worthy trying out
+- Summaization -> Intent classification
+
 ## Options
 ### Intent Classification
 | Model | Action | Data | How to use it |
