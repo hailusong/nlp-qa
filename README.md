@@ -11,6 +11,7 @@ Also, worthy trying out
 ### Intent Classification
 | Model | Action | Data | How to use it |
 | ----- | ---- | ---- | ------ |
+| pre-trained ALBERT (albert-xxlarge-v2) | fine-tune with classification head | domain dataset with intent labels | Split domain dataset into dev/test and verify accuracy  |
 
 ### QA
 | Model | Action | Data | How to use it |
