@@ -37,19 +37,3 @@ The judge says he's working to change this. Starting in 2008, many inmates who w
 Leifman says it's not the complete answer, but it's a start. Leifman says the best part is that it's a win-win solution. The patients win, the families are relieved, and the state saves money by simply not cycling these prisoners through again and again.
 
 And, for Leifman, justice is served. E-mail to a friend
-
-@highlight
-
-Mentally ill inmates in Miami are housed on the "forgotten floor"
-
-@highlight
-
-Judge Steven Leifman says most are there as a result of "avoidable felonies"
-
-@highlight
-
-While CNN tours facility, patient shouts: "I am the son of the president"
-
-@highlight
-
-Leifman says the system is unjust and he's fighting for change

@@ -41,19 +41,3 @@ But they did say their aircraft were regularly checked and maintained, and denie
 One-Two-Go is one of about 40 low-cost airlines operating in Asia, and the industry will be watching closely for the results of the investigation into the crash. E-mail to a friend
 
 CNN's Andrew Stevens contributed to this report
-
-@highlight
-
-Relatives of the 89 people killed in Thai air crash are still arriving in Phuket
-
-@highlight
-
-About 36 of the bodies have yet to be identified, according to Thai authorities
-
-@highlight
-
-U.S. Embassy in Bangkok confirms that five Americans were among the dead
-
-@highlight
-
-The investigation into what caused Sunday's crash is still continuing

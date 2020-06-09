@@ -55,15 +55,3 @@ Linda Sing said she was walking her dog when she saw the fiery destruction. She 
 "We knew there were people in there, but we hoped and prayed they'd gotten out," Sing said. "This is the worst thing I've ever seen. We've had hurricanes, but this is worse."
 
 Ocean Isle Beach is a popular resort destination along North Carolina's southern coast. The year-round population of the 7-mile-long island is about 425, but it swells to about 25,000 during the summer season, according to the town's Web site. E-mail to a friend
-
-@highlight
-
-"Heartbroken" house owner's daughter among six survivors hospitalized
-
-@highlight
-
-One survivor jumped out of a third-story window into a canal to escape
-
-@highlight
-
-University of South Carolina mourns deaths of six students

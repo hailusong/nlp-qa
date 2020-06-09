@@ -21,15 +21,3 @@ He told his attorneys that after reviewing the evidence against him, he realized
 Thomas said in January, shortly after entering his guilty plea, that he was "truly sorry" for his role in the killing.
 
 He could have been sentenced to life in prison under his original plea. E-mail to a friend
-
-@highlight
-
-Cpl. Trent D. Thomas found guilty this week of conspiracy to commit murder
-
-@highlight
-
-Marine gets rank of private, will be discharged for role in death of Iraqi civilian
-
-@highlight
-
-Group's leader awaits trial on murder and conspiracy charges

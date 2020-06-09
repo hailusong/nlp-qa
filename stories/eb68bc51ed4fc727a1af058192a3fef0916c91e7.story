@@ -39,19 +39,3 @@ Bee researchers will now look for stresses that may combine to kill bees.
 "The next step is to ascertain whether IAPV, alone or in concert with other factors, can induce CCD [colony collapse disorder] in healthy bees," said Ian Lipkin, director of the Center for Infection and Immunity at Columbia University Mailman School of Public Health.
 
 Besides the Columbia and USDA researchers, others involved in the study released Thursday include researchers from Pennsylvania State University, the Pennsylvania Department of Agriculture, the University of Arizona and 454 Life Sciences. E-mail to a friend
-
-@highlight
-
-Colony collapse disorder has killed millions of bees
-
-@highlight
-
-Scientists suspect a virus may combine with other factors to collapse colonies
-
-@highlight
-
-Disorder first cropped up in 2004, as bees were imported from Australia
-
-@highlight
-
-$15 billion in U.S. crops each year dependent on bees for pollination

@@ -37,15 +37,3 @@ Levante's Abel Resino became the first Spanish league coach to be sacked this se
 The 47-year-old Resino, a former goalkeeper at Atletico Madrid, joined Levante in January as a replacement for Juan Ramon Lopez Caro.
 
 The Valencia-based club are bottom of the table with only a point from seven matches. E-mail to a friend
-
-@highlight
-
-Lionel Messi scores for the sixth game in a row as Barca defeat Atletico 3-0
-
-@highlight
-
-Real Madrid stay top of the Primera Liga table after defeating Recreativo 2-0
-
-@highlight
-
-Sevilla's crisis continues as they lose their four league match in succession
