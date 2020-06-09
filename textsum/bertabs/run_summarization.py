@@ -302,7 +302,7 @@ def main():
 
     if not documents_dir_is_valid(args.documents_dir):
         raise FileNotFoundError(
-            "We could not find the directory you specified for the documents to summarize, or it was empty. Please specify a valid path."
+            f"We could not find the directory {args.documents_dir} you specified for the documents to summarize, or it was empty. Please specify a valid path."
         )
     os.makedirs(args.summaries_output_dir, exist_ok=True)
 
